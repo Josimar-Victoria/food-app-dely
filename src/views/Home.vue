@@ -28,7 +28,7 @@
         </div>
       </div>
     </div>
-    <h2>Top products</h2>
+    <h2>Top productos</h2>
     <div class="scroll-menu">
       <div class="scroll-content">
         <div :key="index" v-for="(item, index) in 10" class="top-products">
